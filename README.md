@@ -1,19 +1,7 @@
-To run it: 
+This is a to do list app that features Node JS, Express, and most importantly, EJS. The purpose of this project was to further solidify my skills not only in Node and its framework, Express, but also EJS in order to effectively be able to incorporate other languages more effectively.
 
-```
-npm i
-
-node app.js
-```
-
-1. master branch: no databases.
-
-2. mongo branch: mongoDB.
-
-3. postgresql branch: postgres.
-
-App deployed can be found at: 
-
-https://todolist-anagutjor.herokuapp.com/
-
-
+Skills Shown:
+HTML
+Node JS
+Express
+EJS
